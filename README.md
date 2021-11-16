@@ -2,8 +2,8 @@
 Files for video walkthroughs  
 
 HTML smuggling attack 
-https://www.youtube.com/watch?v=g0HAL6MREdw
+https://vimeo.com/646497988
 
 Shellcode runner in-memory attack
-https://www.youtube.com/watch?v=A-xd7qtBbxQ
+https://vimeo.com/646503155
 
